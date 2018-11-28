@@ -8,10 +8,21 @@
 header {
   background-color: yellow;
   font-family: 'Biko_Black', sans-serif;
+  padding: 10px;
+}
+
+nav{
+  padding: 10px;
+  background-color: orange;
 }
 
 body {
   font-family: 'Biko_Black', sans-serif;
+  margin: 0px;
+}
+
+section{
+  padding: 10px;
 }
 
 #shallowest {
