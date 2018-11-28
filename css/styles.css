@@ -1,1 +1,37 @@
 /* CSS file */
+@font-face {
+    font-family: 'Biko_Black';
+    src: url(fonts/Biko_Black.otf);
+}
+
+
+header {
+  background-color: yellow;
+  font-family: 'Biko_Black', sans-serif;
+}
+
+body {
+  font-family: 'Biko_Black', sans-serif;
+}
+
+#shallowest {
+  background-color: #5499C7;
+}
+#shallower {
+  background-color: #2980B9;
+}
+#shallow {
+  background-color: #2471A3;
+}
+#deep {
+  background-color: #1F618D;
+  color: #EAF2F8;
+}
+#deeper {
+  background-color: #1A5276;
+  color: #EAF2F8;
+}
+#deepest {
+  background-color: #154360;
+  color: #EAF2F8;
+}
